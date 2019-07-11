@@ -26,6 +26,14 @@
             <version>RELEASE</version>
             <scope>test</scope>
         </dependency>
+
+        <!--org.junit.jupiter.params.ParameterizedTest-->
+        <dependency>
+            <groupId>org.junit.jupiter</groupId>
+            <artifactId>junit-jupiter-params</artifactId>
+            <version>RELEASE</version>
+            <scope>test</scope>
+        </dependency>
     </dependencies>
 
 
